@@ -1,2 +1,2 @@
 # hello-world file
-[REDACTED}
+[REDACTED]
